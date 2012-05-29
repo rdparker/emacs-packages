@@ -1,0 +1,9 @@
+[submodule "org-mode"]
+	path = org-mode
+	url = ./cedet
+[submodule "cedet"]
+	path = cedet
+	url = ./cedet
+[submodule "magit"]
+	path = magit
+	url = ./magit/
