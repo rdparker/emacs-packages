@@ -7,3 +7,6 @@
 [submodule "magit"]
 	path = magit
 	url = ./magit/
+[submodule "redshank"]
+	path = redshank
+	url = http://www.foldr.org/~michaelw/projects/redshank.git
