@@ -10,3 +10,6 @@
 [submodule "redshank"]
 	path = redshank
 	url = http://www.foldr.org/~michaelw/projects/redshank.git
+[submodule "el-autoyas.el"]
+	path = el-autoyas.el
+	url = git://github.com/mlf176f2/el-autoyas.el.git
