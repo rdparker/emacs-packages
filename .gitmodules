@@ -13,3 +13,6 @@
 [submodule "el-autoyas.el"]
 	path = el-autoyas.el
 	url = git://github.com/mlf176f2/el-autoyas.el.git
+[submodule "nxhtml"]
+	path = nxhtml
+	url = git://github.com/emacsmirror/nxhtml.git
