@@ -6,7 +6,7 @@
 	url = ./cedet
 [submodule "magit"]
 	path = magit
-	url = ./magit/
+	url = git://github.com/magit/magit.git
 [submodule "redshank"]
 	path = redshank
 	url = http://www.foldr.org/~michaelw/projects/redshank.git
