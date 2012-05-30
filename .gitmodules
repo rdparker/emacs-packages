@@ -16,3 +16,6 @@
 [submodule "el-autoyas"]
 	path = el-autoyas
 	url = git://github.com/mlf176f2/el-autoyas.el.git
+[submodule "auto-complete"]
+	path = auto-complete
+	url = git://github.com/m2ym/auto-complete.git
