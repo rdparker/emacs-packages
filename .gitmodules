@@ -1,6 +1,6 @@
 [submodule "org-mode"]
 	path = org-mode
-	url = ./cedet
+	url = git://git.randomsample.de/cedet.git
 [submodule "cedet"]
 	path = cedet
 	url = ./cedet
