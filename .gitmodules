@@ -1,9 +1,9 @@
 [submodule "org-mode"]
 	path = org-mode
-	url = git://git.randomsample.de/cedet.git
+	url = git://orgmode.org/org-mode.git
 [submodule "cedet"]
 	path = cedet
-	url = ./cedet
+	url = git://git.randomsample.de/cedet.git
 [submodule "magit"]
 	path = magit
 	url = git://github.com/magit/magit.git
