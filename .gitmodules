@@ -21,4 +21,4 @@
 	url = git://github.com/m2ym/auto-complete.git
 [submodule "el-get/el-get"]
 	path = el-get/el-get
-	url = git://github.com/dimitri/el-get
+	url = git://github.com/rparker/el-get
