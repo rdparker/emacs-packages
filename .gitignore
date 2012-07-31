@@ -1,3 +1,4 @@
 *~
+.DS_Store
 el-get/*
 !el-get/el-get
